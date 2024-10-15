@@ -1,6 +1,12 @@
 # Data-Driven-Insights-into-Job-Satisfaction-and-Compensation-Trends
 This project analyzes 2020 employee data to identify factors influencing job satisfaction, performance, and salary differences, offering insights for improving engagement and workplace strategies.
 
+![image](https://github.com/user-attachments/assets/007c0a51-fde7-42d1-b7e7-1a1b640da083)
+
+![image](https://github.com/user-attachments/assets/db955a17-fcf3-4eb9-9a21-1504d4e91fd3)
+
+
+
 # About the Data
 This analysis focuses on employee data from 2020, covering salary and job satisfaction across various industries, job roles, and geographical locations. The dataset was carefully chosen to ensure a balanced representation of categorical (e.g., job title, employment type) and numerical variables (e.g., salary, age), which allows for a detailed multidimensional analysis.
 
