@@ -12,6 +12,8 @@ This analysis focuses on employee data from 2020, covering salary and job satisf
 
 The goal of this analysis is to identify factors that influence job satisfaction, work-life balance, and overall employee performance. By employing statistical tests, factor analysis, and clustering techniques, we provide insights that can inform organizational strategies for improving employee satisfaction and performance.
 
+This Dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+
 # Data Dictionary
 
   <img width="523" alt="image" src="https://github.com/user-attachments/assets/ad2fa0a0-6fc7-4e24-b7a3-8833f2292e35">
@@ -26,7 +28,7 @@ The main objectives of this project are:
 The following steps were taken as part of the analysis:
 
 # 1. Data Cleaning & Preparation
-- Cleaned the dataset to handle missing values, outliers, and formatting issues.
+- Cleaned the dataset by handling missing values, outliers, and formatting issues. I selected a limited number of rows based on assignment requirements and added variables to enable factor and cluster analysis.
 - Converted some variables to an appropriate format for analysis like Performance Rating, Work Life Balance.
   
 # 2. Exploratory Data Analysis (EDA)
