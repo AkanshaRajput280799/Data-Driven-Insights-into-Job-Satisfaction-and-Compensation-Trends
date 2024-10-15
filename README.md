@@ -32,8 +32,6 @@ The following steps were taken as part of the analysis:
 # 2. Exploratory Data Analysis (EDA)
 - <b>Non-Graphical Analysis:</b> Initial checks on data distribution and summary statistics of numerical data.
 
-<img width="463" alt="image" src="https://github.com/user-attachments/assets/8acacf02-ebfe-4f56-9a0b-0c9642978613">
-
 - <b>Visual Analysis:</b>
 1. <b>Univariate Analysis:</b> Plots for individual variables like experience level, work arrangements, and salary.
 2. <b>Bivariate Analysis:</b> Examined relationships between key variables, such as salary by experience level and job satisfaction by work arrangement.
